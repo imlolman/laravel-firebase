@@ -45,7 +45,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/imlolman/imlolman/firebase-php.git"
+            "url": "https://github.com/imlolman/firebase-php.git"
         }
     ],
     "scripts": {
